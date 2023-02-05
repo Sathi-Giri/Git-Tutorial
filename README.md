@@ -10,5 +10,5 @@ Alt-h1
 ------
 Alt-h4
 ------
-sakthi,hari,*yuvi* or _abi_
+sakthi,hari,*yuvi* or abi
 
