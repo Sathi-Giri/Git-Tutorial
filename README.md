@@ -6,3 +6,4 @@ Headers
 ##### h5
 ###### h6
 Alt-h1
+Alt-h2
