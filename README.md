@@ -10,6 +10,8 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 * doctor home page
 ### SAMPLE CODING
 #### NEW REGISTRATION
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+```python
+u = input("Input your username!!:")
+        p = input("Input the password (Password must be strong!!!:")
+        mycursor.execute("insert into user_data values('" + u + "','" + p + "')")
+        mysql.commit()
