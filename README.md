@@ -19,3 +19,4 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 #### PROJECT SAMPLE USE
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd./0.jpg)](http://www.youtube.com/watch?v=ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd.)
 
+kii
