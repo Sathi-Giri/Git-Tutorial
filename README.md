@@ -13,3 +13,4 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 | Sl.No | Field Name | Data Type | Size | Constraint | Description |
 |-------|------------|-----------|------|------------|-------------|
 | 1     | User Name  | Varchar   | 10   | Not null   | Username of the admin|
+| 2    | Password | Varchar | 10 | Not null| Authorized Password |
