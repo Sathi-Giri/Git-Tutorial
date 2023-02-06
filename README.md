@@ -34,8 +34,8 @@ u = input("Input your username!!:")
                                 2. Nurse Details
                                 3. Others
                                                  """)
-## DATABASE DESIGN
-|sl no|field name|data type|
+
+| sl no | field name | data type |
 |:----|:---------|:--------|
-|1|username|varchar|
+| 1 | username | varchar |
                                                  
