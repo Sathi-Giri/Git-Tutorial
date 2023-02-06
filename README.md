@@ -36,7 +36,7 @@ u = input("Input your username!!:")
                                                  """)
 ## DATABASE DESIGN
 | sl.no | field name | data type | size | constraint | description |
-|:------:|:----------:|:---------:|:----:|:----------:|:-----------:|
+|:-----:|:----------:|:---------:|:----:|:----------:|:-----------:|
 | 1     | username   | varchar   | 10   | not null   | username of |
                                                  
                                                  
