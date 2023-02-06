@@ -4,5 +4,7 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 ### MODULE DESCRIPITION
 1. admin login
 * admin home page
-3. patient login
-4. doctor login
+2. patient login
+* patient home page
+3. doctor login
+* doctor home page
