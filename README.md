@@ -10,7 +10,9 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 * doctor home page
 ### SAMPLE CODING
 #### NEW REGISTRATION
-' u = input("Input your username!!:")
+'''python
+u = input("Input your username!!:")
         p = input("Input the password (Password must be strong!!!:")
         mycursor.execute("insert into user_data values('" + u + "','" + p + "')")
         mysql.commit()'
+        '''
