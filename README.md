@@ -16,7 +16,7 @@ u = input("Input your username!!:")
         mycursor.execute("insert into user_data values('" + u + "','" + p + "')")
         mysql.commit()
         
-#### Enter the username and password of the user whose data is to display
+
 ```python
    a = int(input("ENTER YOUR CHOICE:"))
                 # if user wants to enter administration option
@@ -34,3 +34,7 @@ u = input("Input your username!!:")
                                 2. Nurse Details
                                 3. Others
                                                  """)
+#### NEW REGISTRATION
+                                                
+                                                 
+                                                 
