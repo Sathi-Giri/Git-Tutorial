@@ -35,11 +35,7 @@ u = input("Input your username!!:")
                                 3. Others
                                                  """)
 ## DATABASE DESIGN
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-                                                 
+|sl no|field name|data type|
+|:----|:---------|:--------|
+|1|username|varchar|
                                                  
