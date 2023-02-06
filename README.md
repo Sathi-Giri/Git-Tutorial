@@ -34,7 +34,9 @@ u = input("Input your username!!:")
                                 2. Nurse Details
                                 3. Others
                                                  """)
-#### NEW REGISTRATION
-                                                
+## DATABASE DESIGN
+| sl.no | field name | data type | size | constraint | description |
+|-------|------------|-----------|------|------------|-------------|
+| 1     | username   | varchar   | 10   | not null   | username of admin |
                                                  
                                                  
