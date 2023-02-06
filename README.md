@@ -9,8 +9,7 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 3. doctor login
 * doctor home page
 ### SAMPLE CODING
-#### NEW REGISTRATION
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+#### DATABASE DESIGN
+| Sl.No | Field Name | Data Type | Size | Constraint | Description |
+|-------|------------|-----------|------|------------|-------------|
+| 1     | User Name  | Varchar   | 10   | Not null   | Username of the admin|
