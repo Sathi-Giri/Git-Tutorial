@@ -1,14 +1,1 @@
-Headers
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-Alt-h1
-------
-------
-Alt-h4
-------
-sakthi,hari,*yuvi* or *abi*
-
+                                     # HOSPITAL MANAGEMENT SYSTEM
