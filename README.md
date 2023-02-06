@@ -1,4 +1,5 @@
 # HOSPITAL MANAGEMENT SYSTEM
+
 ## PROJECT OVERVIEW 
 In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients during the *Covid pandemic situation*,the patients with medical issues cannot come to hospital for all situation,so this website is helpfull for them to consult a doctor.
 ### MODULE DESCRIPITION
@@ -14,3 +15,7 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 |-------|------------|-----------|------|------------|-------------|
 | 1     | User Name  | Varchar   | 10   | Not null   | Username of the admin|
 | 2    | Password | Varchar | 10 | Not null| Authorized Password |
+
+
+
+
