@@ -16,5 +16,6 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 | 2    | Password | Varchar | 10 | Not null| Authorized Password |
 #### WEBSITE LINK
 [CLICK HERE FOR REGISTRATION](https://docpulse.com/)
-
+#### PROJECT SAMPLE USE
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd./0.jpg)](http://www.youtube.com/watch?v=ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd.)
 
