@@ -35,7 +35,7 @@ u = input("Input your username!!:")
                                 3. Others
                                                  """)
 
-| sl no | field name | data type |
-|:----|:---------|:--------|
-| 1 | username | varchar |
-                                                 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
