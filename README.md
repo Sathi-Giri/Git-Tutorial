@@ -26,4 +26,6 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
   DATABASE DESIGN[^3].
   WEBSITE LINK[^4].
   PROJECT SAMPLE USE[^5].
+  Here is a simple footnote[^1].
+
 
