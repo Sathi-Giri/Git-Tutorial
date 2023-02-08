@@ -18,5 +18,5 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 [CLICK HERE FOR REGISTRATION](https://docpulse.com/)
 #### PROJECT SAMPLE USE
 [![CLICK HERE](http://img.youtube.com/vi/ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd./0.jpg)](http://www.youtube.com/watch?v=ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd.)
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
