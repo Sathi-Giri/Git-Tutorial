@@ -21,8 +21,12 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 <img src="(https://user-images.githubusercontent.com/124420874/217514498-acd10192-f290-4bc7-9fb4-5e17edd991cb.png)" width="100" height="100">
 
 #### FOOTNOTES OF THE PROJECT
-Here is a simple footnote[^1].
+PROJECT OVERVIEW [^1].
 
-A footnote can also have multiple lines[^2].  
+MODULE DESCRIPITION [^2].
 
-You can also use words, to fit your writing style more closely[^note].
+DATABASE DESIGN [^3].
+
+WEBSITE LINK [^4].
+
+PROJECT SAMPLE USE [^5].
