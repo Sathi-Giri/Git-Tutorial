@@ -20,3 +20,10 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 [![CLICK HERE](http://img.youtube.com/vi/ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd./0.jpg)](http://www.youtube.com/watch?v=ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd.)
 <img src="(https://user-images.githubusercontent.com/124420874/217514498-acd10192-f290-4bc7-9fb4-5e17edd991cb.png)" width="100" height="100">
 
+#### FOOTNOTES OF THE PROJECT
+PROJECT OVERVIEW[^1]
+MODULE DESCRIPITION[^2]
+DATABASE DESIGN[^3]
+WEBSITE LINK[^4]
+PROJECT SAMPLE USE[^5]
+
