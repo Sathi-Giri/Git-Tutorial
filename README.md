@@ -40,6 +40,19 @@ def selectname():
     else:
         return n
   ```
+  #### OVERVIEW OF THE PROJECT
+  <dl>
+  <dt>Why is HMS important for a hospital?</dt>
+  <dd>Maintain the medical records of the patient  
+
+Maintain the contact details of the patient
+
+Keep track of the appointment dates
+
+Save the insurance information for later reference
+
+    Tracking the bill payments.</dd>
+  </dl>
 #### FOOTNOTES OF THE PROJECT
 ---
 PROJECT OVERVIEW [^1].
