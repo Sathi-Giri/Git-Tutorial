@@ -40,7 +40,7 @@ def selectname():
     else:
         return n
   ```
-  #### OVERVIEW OF THE PROJECT
+  #### NOTES
   <dl>
   <dt>Why is HMS important for a hospital?</dt>
   <dd>Maintain the medical records of the patient.</dd>
@@ -57,4 +57,8 @@ DATABASE DESIGN [^3].
 WEBSITE LINK [^4].
 
 PROJECT SAMPLE USE [^5].
+
+SAMPLE CODING [6].
+
+NOTES [7].
 
