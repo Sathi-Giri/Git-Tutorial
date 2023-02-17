@@ -38,7 +38,7 @@ def selectname():
         exit()
     else:
         return n
-        ```
+  ```
 #### FOOTNOTES OF THE PROJECT
 PROJECT OVERVIEW [^1].
 
