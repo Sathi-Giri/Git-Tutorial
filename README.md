@@ -40,6 +40,7 @@ def selectname():
         return n
   ```
 #### FOOTNOTES OF THE PROJECT
+---
 PROJECT OVERVIEW [^1].
 
 MODULE DESCRIPITION [^2].
