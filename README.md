@@ -43,7 +43,7 @@ def selectname():
   #### OVERVIEW OF THE PROJECT
   <dl>
   <dt>Why is HMS important for a hospital?</dt>
-  <dd>Maintain the medical records of the patient</dd>
+  <dd>Maintain the medical records of the patient.</dd>
   </dl>
 #### FOOTNOTES OF THE PROJECT
 ---
