@@ -1,6 +1,7 @@
 # HOSPITAL MANAGEMENT SYSTEM
 ![IMG_20230206_173807](https://user-images.githubusercontent.com/124420874/216968480-0eaa8842-457d-4019-b77a-5699e0ef998a.JPG)
 ## PROJECT OVERVIEW 
+***
 In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients during the *Covid pandemic situation*,the patients with medical issues cannot come to hospital for all situation,so this website is helpfull for patients to consult a doctor.
 ### MODULE DESCRIPITION
 1. admin login
