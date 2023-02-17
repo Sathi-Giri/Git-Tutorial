@@ -19,7 +19,26 @@ In this project **HOSPITAL MANAGEMENT SYSTEM** website is to manage patients dur
 #### PROJECT SAMPLE USE
 [![CLICK HERE](http://img.youtube.com/vi/ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd./0.jpg)](http://www.youtube.com/watch?v=ECwmWJNMrIU&ab_channel=AllenticsITSolutionsPvt.Ltd.)
 <img src="(https://user-images.githubusercontent.com/124420874/217514498-acd10192-f290-4bc7-9fb4-5e17edd991cb.png)" width="100" height="100">
-
+#### SAMPLE CODING
+```puthon
+def selectname():
+  
+    name = {1: "Nilesh", 2: "Shanu"}
+    b = {1: "Food", 2: "Exercise"}
+  
+    for key, value in name.items():
+  
+        # taking input of name
+        print("Press", key, "for", value, "\n", end="")
+  
+    n = int(input("type here.."))
+  
+    if n > 2:
+        print("error select 1 or 2")
+        exit()
+    else:
+        return n
+        ```
 #### FOOTNOTES OF THE PROJECT
 PROJECT OVERVIEW [^1].
 
@@ -30,3 +49,4 @@ DATABASE DESIGN [^3].
 WEBSITE LINK [^4].
 
 PROJECT SAMPLE USE [^5].
+
